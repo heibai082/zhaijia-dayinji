@@ -1,1 +1,1 @@
-{"versionCode":33,"versionName":"0.9.23","url":"https://cdn.jsdelivr.net/gh/heibai082/zhaijia-dayinji@main/remote-printer-0.9.23.apk","sha256":"69F92F50A2E4B7DFA005563107E7CB800561BEBB90D0F5FB064E2FE3BAB9E959","notes":"v0.9.23：首个公开发行版（内网直打 / 自动选路 / 模型抠图 / 去手写 / 应用内更新）"}
+{"versionCode":34,"versionName":"0.9.24","url":"https://cdn.jsdelivr.net/gh/heibai082/zhaijia-dayinji@main/remote-printer-0.9.24.apk","sha256":"41D7D9299AACB19D7BB5DBBC01C9EA29AA80A4331CCE5B76C5601CFF041B5B7D","notes":"v0.9.24：打印页如实显示绑定状态，未绑定可直接扫码；修 0.9.23 升级后邮箱显示为空"}
