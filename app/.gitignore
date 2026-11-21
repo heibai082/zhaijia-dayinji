@@ -1,0 +1,40 @@
+# 构建产物
+build/
+*.class
+*.jar
+*.dex
+
+# 原生依赖（用 fetch-deps.ps1 拉）
+libs/
+jniLibs/
+assets/*.onnx
+
+# 桌面验收台的编译输出与测试产物
+desktop-test/out/
+desktop-test/cutout/
+desktop-test/mailout/
+desktop-test/zout/
+desktop-test/paperout/
+desktop-test/bgout/
+desktop-test/bgpt/
+desktop-test/lanout/
+desktop-test/qrout/
+desktop-test/*.log
+desktop-test/*.err
+desktop-test/received.eml
+desktop-test/desktop-scan-*.jpg
+desktop-test/out-paper-blue.png
+
+# 个人素材与内部文档（绝不公开）
+experiments/
+交接文档.md
+变更说明.md
+mail-account.properties
+probe/*.jpg
+probe/*.png
+下载二维码.png
+version.txt
+
+# 系统垃圾
+.DS_Store
+Thumbs.db

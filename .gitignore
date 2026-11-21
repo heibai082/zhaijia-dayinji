@@ -1,0 +1,36 @@
+# 构建产物
+build/
+**/build/
+*.class
+*.dex
+
+# 原生依赖（用 app/fetch-deps.ps1 拉）
+app/libs/
+app/jniLibs/
+app/assets/*.onnx
+
+# 桌面验收台的编译输出与测试产物
+app/desktop-test/out/
+app/desktop-test/cutout/
+app/desktop-test/mailout/
+app/desktop-test/paperout/
+app/desktop-test/bgout/
+app/desktop-test/bgpt/
+app/desktop-test/lanout/
+app/desktop-test/qrout/
+app/desktop-test/*.log
+app/desktop-test/*.err
+app/desktop-test/received.eml
+app/desktop-test/desktop-scan-*.jpg
+
+# 个人素材与内部文档（绝不公开）
+experiments/
+交接文档.md
+变更说明.md
+mail-account.properties
+probe/*.jpg
+probe/*.png
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
