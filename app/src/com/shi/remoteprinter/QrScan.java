@@ -46,7 +46,7 @@ public final class QrScan {
         return t.matches("[A-Za-z0-9._%+\\-]+@[A-Za-z0-9.\\-]+\\.[A-Za-z]{2,}");
     }
 
-    /** 脱敏显示：xyh5****@print.rpt.epson.com.cn（界面、截图里不出现完整地址）。 */
+    /** 脱敏显示：abc1****@example.com（界面、截图里不出现完整地址）。 */
     public static String mask(String email) {
         if (email == null || email.isEmpty()) return "未设置";
         int at = email.indexOf('@');
