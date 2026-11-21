@@ -1,1 +1,1 @@
-{"versionCode":36,"versionName":"0.9.26","url":"https://cdn.jsdelivr.net/gh/heibai082/zhaijia-dayinji@main/remote-printer-0.9.26.apk","sha256":"51DEF7779EE9D9EAA1A32597795F5920F0089C40ABABF1948DA5C945BCEB22B8","notes":"v0.9.26：已发送记录默认只显示 3 条，多了折叠，点「展开全部」再看；底部说明同步更新（内网直打已可用）"}
+{"versionCode":37,"versionName":"0.9.27","url":"https://cdn.jsdelivr.net/gh/heibai082/zhaijia-dayinji@main/remote-printer-0.9.27.apk","sha256":"A0BA78CBEA1A8FCEA3BE48BDD95083C16C9714D26C97FC927E5CC4CF9FF16A88","notes":"v0.9.27：SMTP 授权码已保存时显示 ****** 与位数，发件邮箱显示当前值，不再让人猜有没有填"}
