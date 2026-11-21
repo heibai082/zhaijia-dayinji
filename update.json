@@ -1,1 +1,1 @@
-{"versionCode":35,"versionName":"0.9.25","url":"https://cdn.jsdelivr.net/gh/heibai082/zhaijia-dayinji@main/remote-printer-0.9.25.apk","sha256":"B105FA2468E079CA0C4AD80C76D67006B1EC22E204838754F84871FCB358573A","notes":"v0.9.25：二维码解码改成多尺度+中心裁切+反色（照片里的小码也能解）；扫不出来时可手动填邮箱；打印页如实显示绑定状态"}
+{"versionCode":36,"versionName":"0.9.26","url":"https://cdn.jsdelivr.net/gh/heibai082/zhaijia-dayinji@main/remote-printer-0.9.26.apk","sha256":"51DEF7779EE9D9EAA1A32597795F5920F0089C40ABABF1948DA5C945BCEB22B8","notes":"v0.9.26：已发送记录默认只显示 3 条，多了折叠，点「展开全部」再看；底部说明同步更新（内网直打已可用）"}
